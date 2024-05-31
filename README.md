@@ -15,4 +15,4 @@ _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tec
 -----
 ## ___Certificados___ 
 Lógica de programação - DIO.me
-[](https://www.dio.me/certificate/ZQEMVEIR/share)
+<a href="https://www.dio.me/certificate/ZQEMVEIR/share">
