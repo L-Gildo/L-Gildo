@@ -16,3 +16,4 @@ _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tec
 ## ___Certificados___ 
 Lógica de programação - DIO.me
 <a>"https://www.dio.me/certificate/ZQEMVEIR/share"</a>
+Front-End Web<a>"https://www.devmedia.com.br/certificado/unificado/front-end-web/leonardo-gildo</a>
