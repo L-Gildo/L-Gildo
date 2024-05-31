@@ -1,5 +1,5 @@
 ## Alô, mundo!!! 👋
-![Tecnologia da Informação](image-4.png)
+![alt text](image-6.png)
 
 ### _Apresentação_
 _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tecnologia da Informação pela Gran Faculdade. Estou me aperfeiçoando usando três plataformas as quais são: Gran Faculdade /  DIO.me / DevMedia_
