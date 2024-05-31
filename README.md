@@ -14,7 +14,7 @@ _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tec
 ![Card](https://github-readme-stats.vercel.app/api?username=L-Gildo&theme=merko&show_icons=true)![status](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Gildo&hide=html&layout=compact&theme=merko)
 -----
 ## ___Certificados___ 
-Lógica de programação - DIO.me
+__Lógica de programação - DIO.me__
 <a>"https://www.dio.me/certificate/ZQEMVEIR/share"</a>
 
-Front-End Web<a>"https://www.devmedia.com.br/certificado/unificado/front-end-web/leonardo-gildo</a>
+__Front-End Web__ <a>"https://www.devmedia.com.br/certificado/unificado/front-end-web/leonardo-gildo</a>
