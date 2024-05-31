@@ -13,6 +13,6 @@ _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tec
 ## ___Cards___
 ![Card](https://github-readme-stats.vercel.app/api?username=L-Gildo&theme=merko&show_icons=true)![status](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Gildo&hide=html&layout=compact&theme=merko)
 -----
-##___Certificados___ 
-
-Lógica de Programação - DIO.me [](https://www.dio.me/certificate/ZQEMVEIR/share)
+## ___Certificados___ 
+Lógica de programação - DIO.me
+[](https://www.dio.me/certificate/ZQEMVEIR/share)
