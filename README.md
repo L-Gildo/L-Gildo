@@ -11,4 +11,4 @@ _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tec
 
 ----
 ## ___Cards___
-![text](https://github-readme-stats.vercel.app/api?username=L-Gildo&theme=default)
+![text](https://github-readme-stats.vercel.app/api?username=L-Gildo&theme=merko)
