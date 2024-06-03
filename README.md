@@ -19,4 +19,4 @@ __Lógica de programação - DIO.me__
 
 __Formação Github Certification - DIO.me__ <a>https://www.dio.me/certificate/YLLIGI9F/share</a>
 
-__Front-End Web__ <a>https://www.devmedia.com.br/certificado/unificado/front-end-web/leonardo-gildo</a>
+__Front-End Web - DevMedia__ <a>https://www.devmedia.com.br/certificado/unificado/front-end-web/leonardo-gildo</a>
