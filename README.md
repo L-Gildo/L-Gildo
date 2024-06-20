@@ -15,12 +15,12 @@ _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tec
 -----
 ## ___Certificados___ 
 __Project Manager / Data Administrator - Gran Faculdade__
-<a>https://encurtador.com.br/DMJRi</a>
+<a>https://curt.link/qxiMs</a>
 
 __Lógica de programação - DIO.me__
-<a>https://www.dio.me/certificate/ZQEMVEIR/share</a>
+<a>https://curt.link/rPCky</a>
 
-__Formação Github Certification - DIO.me__ <a>https://www.dio.me/certificate/YLLIGI9F/share</a>
+__Formação Github Certification - DIO.me__ <a>https://curt.link/eXiGb</a>
 
 __Front-End Web - DevMedia__ <a>https://www.devmedia.com.br/certificado/unificado/front-end-web/leonardo-gildo</a>
 
