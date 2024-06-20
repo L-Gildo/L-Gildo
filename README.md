@@ -18,10 +18,10 @@ __Project Manager / Data Administrator - Gran Faculdade__
 <a>https://bit.ly/3VQ0EmS</a>
 
 __Lógica de programação - DIO.me__
-<a>https://curt.link/rPCky</a>
+<a>https://bit.ly/DioLP</a>
 
-__Formação Github Certification - DIO.me__ <a>https://curt.link/eXiGb</a>
+__Formação Github Certification - DIO.me__ <a>https://bit.ly/DIOgithub</a>
 
-__Front-End Web - DevMedia__ <a>https://www.devmedia.com.br/certificado/unificado/front-end-web/leonardo-gildo</a>
+__Front-End Web - DevMedia__ <a>https://bit.ly/FrontEndDevMedia</a>
 
-__Algoritmo - DevMedia__ <a>https://www.devmedia.com.br/certificado/unificado/algoritmo/leonardo-gildo</a>
+__Algoritmo - DevMedia__ <a>https://bit.ly/AlgoDevMedia</a>
