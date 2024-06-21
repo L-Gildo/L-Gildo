@@ -15,7 +15,7 @@ _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tec
 -----
 ## ___Certificados___ 
 __Project Manager / Data Administrator - Gran Faculdade__
-<a>https://bit.ly/3VQ0EmS</a>
+<a>https://bit.ly/Gran2P</a>
 
 __Lógica de programação - DIO.me__
 <a>https://bit.ly/DioLP</a>
