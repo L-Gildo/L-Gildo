@@ -22,6 +22,8 @@ __Lógica de programação - DIO.me__
 
 __Formação Github Certification - DIO.me__ <a>https://bit.ly/DIOgithub</a>
 
+__Formação HTML with Accessibility Certification - DIO.me__ <a>https://hermes.dio.me/certificates/VAUW3YWF.pdf</a
+
 __Front-End Web - DevMedia__ <a>https://bit.ly/FrontEndDevMedia</a>
 
 __Algoritmo - DevMedia__ <a>https://bit.ly/AlgoDevMedia</a>
