@@ -22,7 +22,7 @@ __Lógica de programação - DIO.me__
 
 __Formação Github Certification - DIO.me__ <a>https://bit.ly/DIOgithub</a>
 
-__Formação HTML with Accessibility Certification - DIO.me__ <a>https://bit.ly/DIOhtml</a
+__Formação HTML with Accessibility Certification - DIO.me__ <a>https://bit.ly/DIOhtml</a>
 
 __Front-End Web - DevMedia__ <a>https://bit.ly/FrontEndDevMedia</a>
 
