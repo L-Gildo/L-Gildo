@@ -2,6 +2,14 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Leonardo+Gildo...;Nice+to+meet+you!&center=true&size=30">
   </a>
+  <p align="center">
+    ·
+    <a href="/docs/readme_es.md">Español</a>
+    ·
+    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
+    ·
+    <a href="/docs/readme_tr.md">English</a>
+  </p>
 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=L-Gildo.L-Gildo&left_text=My%20Page%20Visitors" width="150px">
 
