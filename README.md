@@ -19,7 +19,7 @@ _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tec
 -----
 ![](https://github-profile-trophy.vercel.app/?username=L-Gildo&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 -----
-## ___Certificados___ 
+## ___Certificações___ 
 __Project Manager / Data Administrator - Gran Faculdade__
 <a>https://bit.ly/Gran2P</a>
 
