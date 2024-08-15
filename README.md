@@ -1,5 +1,8 @@
-## Alô, mundo!!! 👋
-![Tecnologia da Informação](image-7.png)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 ### _Apresentação_
 _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tecnologia da Informação pela Gran Faculdade. Estou me aperfeiçoando usando três plataformas as quais são: Gran Faculdade /  DIO.me / DevMedia_
