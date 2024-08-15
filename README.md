@@ -2,7 +2,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Leonardo+Gildo....;Nice+to+meet+you!&center=true&size=30">
   </a>
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=L-Gildo.L-Gildo">
 </h1>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=L-Gildo.L-Gildo">
 
