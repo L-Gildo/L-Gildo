@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Leonardo+Gildo....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=L-Gildo.L-Gildo" width="80px">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=L-Gildo.L-Gildo&left_text=My%20Page%20Visitors" width="80px">
 
 ### _Apresentação_
 _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tecnologia da Informação pela Gran Faculdade. Estou me aperfeiçoando usando três plataformas as quais são: Gran Faculdade /  DIO.me / DevMedia_
