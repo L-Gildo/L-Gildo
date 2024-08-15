@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Leonardo+Gildo....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<img align="justify" src="https://visitor-badge.laobi.icu/badge?page_id=L-Gildo.L-Gildo">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=L-Gildo.L-Gildo">
 
 ### _Apresentação_
 _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tecnologia da Informação pela Gran Faculdade. Estou me aperfeiçoando usando três plataformas as quais são: Gran Faculdade /  DIO.me / DevMedia_
@@ -11,7 +11,7 @@ _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tec
 
 --------
 ## ___Tecnologias___
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px">
 
 ----
 ## ___Cards___
