@@ -1,11 +1,11 @@
+<div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=L-Gildo.L-Gildo&left_text=My%20Page%20Visitors" width="150px">
+</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Leonardo+Gildo...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<div>
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=L-Gildo.L-Gildo&center_text=My%20Page%20Visitors" width="150px">
-</div>
 
 <h2 align="center"><i>Apresentação</i></h2>
 _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tecnologia da Informação pela Gran Faculdade. Estou me aperfeiçoando usando três plataformas as quais são: Gran Faculdade /  DIO.me / DevMedia_
