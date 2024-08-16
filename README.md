@@ -1,11 +1,13 @@
 <div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=L-Gildo.L-Gildo&left_text=My%20Page%20Visitors" width="160px">
 </div>
+<div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Leonardo+Gildo...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+</div>
 
 <h2 align="center"><i>Apresentação</i></h2>
 
