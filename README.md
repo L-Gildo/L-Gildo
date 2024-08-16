@@ -8,6 +8,7 @@
 </h1>
 
 <h2 align="center"><i>Apresentação</i></h2>
+
 _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tecnologia da Informação pela Gran Faculdade. Estou me aperfeiçoando usando três plataformas as quais são: Gran Faculdade /  DIO.me / DevMedia_
 --------
 <h2 align="center"><i>Linguagens e Tecnologias</i></h2>
@@ -17,7 +18,7 @@ _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tec
 </p>
 
 ----
-## ___Cards___
+<h2 align="center"><i>Cards</i></h2>
 ![Card](https://github-readme-stats.vercel.app/api?username=L-Gildo&theme=merko&show_icons=true)![status](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Gildo&hide=html&layout=compact&theme=merko)
 -----
 ![](https://github-profile-trophy.vercel.app/?username=L-Gildo&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
