@@ -4,7 +4,7 @@
   </a>
 </h1>
 <div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=L-Gildo.L-Gildo&left_text=My%20Page%20Visitors" width="150px">
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=L-Gildo.L-Gildo&center_text=My%20Page%20Visitors" width="150px">
 </div>
 
 <h2 align="center"><i>Apresentação</i></h2>
