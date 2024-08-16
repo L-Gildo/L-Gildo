@@ -9,9 +9,8 @@
 
 <h2 align="center"><i>Apresentação</i></h2>
 
---------
 _Sou Leonardo Gildo (podem me chamar de Gildo) e sou estudante de Gestão de Tecnologia da Informação pela Gran Faculdade. Estou me aperfeiçoando usando três plataformas as quais são: Gran Faculdade /  DIO.me / DevMedia_
---------
+
 <h2 align="center"><i>Linguagens e Tecnologias</i></h2>
 
 <p align="center">
