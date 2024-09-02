@@ -44,6 +44,10 @@ __Formação Github Certification - DIO.me__ <a>https://bit.ly/DIOgithub</a>
 
 __Formação HTML with Accessibility Certification - DIO.me__ <a>https://bit.ly/DIOhtml</a>
 
+__Formação CSS with Accessibility Certification - DIO.me__ <a>https://bit.ly/DIOcss</a>
+
+__Certificação Machine Learning with Amazon SageMaker Canvas - DIO.me__ <a>https://bit.ly/DIOml_amazon</a>
+
 __Front-End Web - DevMedia__ <a>https://bit.ly/FrontEndDevMedia</a>
 
 __Algoritmo - DevMedia__ <a>https://bit.ly/AlgoDevMedia</a>
